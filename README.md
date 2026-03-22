@@ -3,7 +3,7 @@
 A modern, highly interactive, and visually stunning web developer portfolio designed to showcase skills, projects, and professional experience. Built with cutting-edge web technologies, it features dynamic WebGL shaders, fluid animations, and a rich, responsive user interface.
 
 ## 🚀 Live Demo
-*(Deployment Link Here - Add your Vercel/Netlify link once deployed)*
+[https://master.d13kkfmbue8ihx.amplifyapp.com/](https://master.d13kkfmbue8ihx.amplifyapp.com/)
 
 ## ✨ Key Features
 - **Dynamic WebGL Backgrounds**: Uses `Three.js` and custom fragment shaders to create a thick, bright, interactive rainbow background effect.
